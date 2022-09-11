@@ -1,0 +1,21 @@
+.trend_news{
+    background-color: whitesmoke;
+}
+.trend{
+    background-color: rgb(194, 237, 237);
+    color: black;
+   
+}
+.button-trend{
+background-color:  rgb(222, 193, 156);
+font-size: 0.99rem;
+border-radius: 20px rgb(222, 193, 156);
+}
+.trend_1{
+    background-color: rgb(222, 193, 156);
+    color: black;
+   border-radius: 20px solid  rgb(222, 193, 156);
+}
+.img-2{
+ border-radius: 20px;
+}
